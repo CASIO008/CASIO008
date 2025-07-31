@@ -11,7 +11,7 @@
 
 <hr />
 
-- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="25px" /> <omg src="https://em-content.zobj.net/source/microsoft-teams/400/man-student_1f468-200d-1f393.png" width ="25px" /> I'm a rising Junior, studying computer science from distance in USF University of San Francisco 
+- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="25px" /> <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-student_1f468-200d-1f393.png" width ="25px" /> I'm a rising Junior, studying computer science from distance in USF University of San Francisco 
 - 🔭 I'm currently working on personal projects with [Suel]
 - 👯 I am always open to discussing new projects, creative ideas, and opportunities.
 - ⚡ Fun fact: In between training neural networks, I enjoy immersing myself in a game of chess. Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank">Chess<a>.
