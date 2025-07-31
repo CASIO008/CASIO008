@@ -16,7 +16,7 @@
 - 👯 I am always open to discussing new projects, creative ideas, and opportunities.
 - ⚡ Fun fact: In between training neural networks, I enjoy immersing myself in a game of chess. Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank">Chess<a>.
 
-*Updated 8th July 2023*
+*Updated 31th July 2025*
 
 
 <h5 align="center">Language & Tools:</h5>
