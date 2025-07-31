@@ -15,21 +15,9 @@
 - 🔭 I'm currently working on personal projects with [Suel]
 - 👯 I am always open to discussing new projects, creative ideas, and opportunities.
 - ⚡ Fun fact: In between training neural networks, I enjoy immersing myself in a game of chess. Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank">Chess<a>.
-- 📝 I have recently developed a keen interest in penning down my thoughts, musings, and experiences as blog posts.
 
 *Updated 8th July 2023*
 
-<hr/>
-
-<h3>✍️ Featured Blog Posts:</h3>
-<ul>
-<li><a href="https://soyuj.com/blog/mastering-bagh-chal-with-self-learning-ai">Mastering the Nepali Board Game of Bagh Chal with self-learning AI</a></li>
-<li><a href="https://soyuj.com/blog/content-workflow-system">Developing The Content Workflow System for Programiz</a></li>
-</ul>
-<p>Visit <a href="https://soyuj.com/blog">soyuj.com/blog</a> to checkout all of my writings.</p>
-<hr/>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=basnetsoyuj" alt="basnetsoyuj" /> 
 
 <h5 align="center">Language & Tools:</h5>
 <p align="center"><img height="20" src="assets/images/logos/bash.svg" alt="bash" title="bash"/> <img height="20" src="assets/images/logos/c.svg" alt="c" title="c" /> <img height="20" src="assets/images/logos/cpp.svg" alt="cplusplus" title="cplusplus" /> <img height="20" src="assets/images/logos/css.svg" alt="css3" title="css3" /> <img height="20" src="assets/images/logos/django.svg" alt="django" title="django" /> <img height="20" src="assets/images/logos/docker.svg" alt="docker" title="docker" /> <img height="20" src="assets/images/logos/figma.svg" alt="figma" title="figma" /> <img height="20" src="assets/images/logos/flask.svg" alt="flask" title="flask"/> <img height="20" src="assets/images/logos/gatsby.svg" alt="gatsby" title="gatsby" /> <img height="20" src="assets/images/logos/git.svg" alt="git" title="git" /> <img height="20" src="assets/images/logos/html.svg" alt="html5" title="html5" /> <img height="20" src="assets/images/logos/javascript.svg" alt="javascript" title="javascript" /> <img
