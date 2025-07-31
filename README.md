@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/git_profile.png" style="padding: 10px">
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/fire.gif" width="50px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
+<h1 align="center"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="50px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
 
 <h3 align="center">I'm a computer science and math student working on machine learning. I like chess, rock music and deep neural networks.</h3>
 
