@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/profile.png" style="padding: 10px">
 
-<h1 align="center"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/waving-hand_1f44b.gif" width="50px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
+<h2 align="center"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/waving-hand_1f44b.gif" width="50px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h2>
 
-<h3 align="center">I'm a computer science and math student working on machine learning. I like chess, rock music and deep neural networks.</h3>
+<h4 align="center">I'm a computer science and math student working on machine learning. I like chess, rock music and deep neural networks.</h4>
 
 <p></p>
 
@@ -20,4 +20,4 @@
 
 
 <h5 align="center">Language & Tools:</h5>
-<p align="center"><img height="20" src="assets/images/logos/bash.svg" alt="bash" title="bash"/> <img height="20" src="assets/images/logos/c.svg" alt="c" title="c" /> <img height="20" src="Assets/images/logos/python.svg" alt="python" title="cplusplus" /> <img height="20" src="Assets/images/logos/css.svg" alt="css3" title="css3" /> <img height="20" src="assets/images/logos/django.svg" alt="django" title="django" /> <img height="20" src="assets/images/logos/docker.svg" alt="docker" title="docker" /> <img height="20" src="Assets/images/logos/figma.svg" alt="figma" title="figma" /> <img height="20" src="assets/images/logos/flask.svg" alt="flask" title="flask"/> <img height="20" src="assets/images/logos/gatsby.svg" alt="gatsby" title="gatsby" /> <img height="20" src="assets/images/logos/git.svg" alt="git" title="git" /> <img height="20" src="Assets/images/logos/html.svg" alt="html5" title="html5" /> <img height="20" src="Assets/images/logos/Js.svg" alt="javascript" title="javascript" /> <img
+<img height="20" src="Assets/images/logos/python.svg" alt="python" title="python" /> <img height="20" src="Assets/images/logos/css.svg" alt="css3" title="css3" /> <img height="20" src="assets/images/logos/django.svg" alt="django" title="django" /> <img height="20" src="assets/images/logos/docker.svg" alt="docker" title="docker" /> <img height="20" src="Assets/images/logos/figma.svg" alt="figma" title="figma" /> <img height="20" src="Assets/images/logos/git.svg" alt="git" title="git" /> <img height="20" src="Assets/images/logos/html.svg" alt="html5" title="html5" /> <img height="20" src="Assets/images/logos/Js.svg" alt="javascript" title="javascript" /> 
