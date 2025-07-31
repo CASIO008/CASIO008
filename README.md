@@ -7,7 +7,7 @@
 <p></p>
 
 
-<p align="center" style="padding: 10px;"><a href="https://twitter.com/basnetsoyuj" target="blank"><img align="center" src="assets/images/logos/twitter.svg" alt="basnetsoyuj" width="25" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/cassio-silva-846953338" target="blank"><img align="center" src="assets/images/logos/linkedin.svg" alt="basnetsoyuj" width="25" /></a>&nbsp;&nbsp;<a href="https://instagram.com/casio_csb" target="blank"><img align="center" src="assets/images/logos/instagram.svg" alt="casio_csb" width="25" /></a>&nbsp;&nbsp;<a href="mailto:cassiossilva07@gmail.com"><img align="center" src="assets/images/logos/gmail.svg" alt="cassiossilva" width="25" /></p>
+<p align="center" style="padding: 10px;"><a href="https://linkedin.com/in/cassio-silva-846953338" target="blank"><img align="center" src="assets/images/logos/linkedin.svg" alt="CASIO008" width="25" /></a>&nbsp;&nbsp;<a href="https://instagram.com/casio_csb" target="blank"><img align="center" src="assets/images/logos/instagram.svg" alt="casio_csb" width="25" /></a>&nbsp;&nbsp;<a href="mailto:cassiossilva07@gmail.com"><img align="center" src="assets/images/logos/gmail.svg" alt="CASIO008" width="25" /></p>
 
 <hr />
 
