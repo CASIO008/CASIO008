@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/assets/images/git_profile.png" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/git_profile.png" style="padding:5px;">
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/> Hey there! I'm Soyuj Jung Basnet. 👨‍💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/wave.gif" width="30px"/> Hey there! I'm Cássio Silva P.. 👨‍💻</h1>
 
 <h3 align="center">I'm a computer science and math student working on machine learning. I like board games and deep neural networks.</h3>
 
