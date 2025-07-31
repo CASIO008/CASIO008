@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/git_profile.png" style="padding: 10px">
+<img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/profile.png" style="padding: 10px">
 
 <h1 align="center"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/waving-hand_1f44b.gif" width="50px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
 
