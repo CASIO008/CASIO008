@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/git_profile.png" width="55rem" height="25rem">
+<img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/git_profile.png" width="700rem" height="250rem">
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/waving.gif" width="30px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
 
