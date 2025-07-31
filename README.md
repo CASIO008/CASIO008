@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/git_profile.png" style="padding: 10px">
 
-<h1 align="center"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="50px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
+<h1 align="center"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/waving-hand_1f44b.gif" width="50px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
 
 <h3 align="center">I'm a computer science and math student working on machine learning. I like chess, rock music and deep neural networks.</h3>
 
@@ -11,7 +11,7 @@
 
 <hr />
 
-- 🧑‍🎓 I'm a rising Junior, studying computer science from distance in USF University of San Francisco 
+- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="10px" /> I'm a rising Junior, studying computer science from distance in USF University of San Francisco 
 - 🔭 I'm currently working on personal projects with [Suel]
 - 👯 I am always open to discussing new projects, creative ideas, and opportunities.
 - ⚡ Fun fact: In between training neural networks, I enjoy immersing myself in a game of chess. Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank">Chess<a>.
