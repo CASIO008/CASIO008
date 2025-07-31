@@ -14,7 +14,7 @@
 - <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="25px" /> <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-student_1f468-200d-1f393.png" width ="25px" /> I'm a rising Junior, studying computer science <br> from distance in USF University of San Francisco 
 - 🔭 I'm currently working on personal projects with [myself]
 - 👯 I am always open to discussing new projects, <br> creative ideas, and opportunities.
-- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/high-voltage_26a1.gif" width="25px" /> Fun fact: In between training neural networks, <br> I enjoy immersing myself in a game of chess. <br> Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank"><img height="25px" src="https://em-content.zobj.net/source/apple/419/chess-pawn_265f-fe0f.png"> <a>.
+- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/high-voltage_26a1.gif" width="25px" /> Fun fact: In between training neural networks, <br> I enjoy immersing myself in a game of chess. <br> Feel free to challenge me on ><a href="https://chess.com/member/jxdho" target="_blank"><img height="25px" src="https://em-content.zobj.net/source/apple/419/chess-pawn_265f-fe0f.png"><a>.
 
 *Updated 31th July 2025*
 
