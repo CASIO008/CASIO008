@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/git_profile.png" style="padding:5px;">
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/wave.gif" width="30px"/> Hey there! I'm Cássio Silva P.. 👨‍💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/waving.gif" width="30px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
 
-<h3 align="center">I'm a computer science and math student working on machine learning. I like board games and deep neural networks.</h3>
+<h3 align="center">I'm a computer science and math student working on machine learning. I like chess, rock and deep neural networks.</h3>
 
 <p></p>
 
@@ -11,8 +11,8 @@
 
 <hr />
 
-- 🧑‍🎓 I'm a rising Junior at New York University (NYU).
-- 🔭 I'm currently working on a research project with [Professor Torsten Suel](http://engineering.nyu.edu/~suel/) at the Department of Computer Science and Engineering at NYU Tandon.
+- 🧑‍🎓 I'm a rising Junior, studying computer science from distance in USF University of San Francisco 
+- 🔭 I'm currently working on personal projects with [Suel]
 
     The research focuses on enhancing information retrieval accuracy and efficiency by using machine learning to improve learned inverted index structures derived from complex transformer-based ranking systems. To learn more, visit my blog post: <a href="https://soyuj.com/blog/ugsrp-2023">Improving Learned Index Structures</a>
 
