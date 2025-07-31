@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/CASIO008/CASIO008/main/Assets/images/waving.gif" width="30px"/> Hey there! I'm Cássio Silva.. 👨‍💻</h1>
 
-<h3 align="center">I'm a computer science and math student working on machine learning. I like chess, rock and deep neural networks.</h3>
+<h3 align="center">I'm a computer science and math student working on machine learning. I like chess, rock music and deep neural networks.</h3>
 
 <p></p>
 
@@ -13,12 +13,8 @@
 
 - 🧑‍🎓 I'm a rising Junior, studying computer science from distance in USF University of San Francisco 
 - 🔭 I'm currently working on personal projects with [Suel]
-
-    The research focuses on enhancing information retrieval accuracy and efficiency by using machine learning to improve learned inverted index structures derived from complex transformer-based ranking systems. To learn more, visit my blog post: <a href="https://soyuj.com/blog/ugsrp-2023">Improving Learned Index Structures</a>
-
-- 💼 I'm also occasionally involved in <a href="https://www.programiz.com/" target="_blank">programiz.com</a> to help build their machine learning pipeline for Programiz Pro AI which helps users in code explanation and debugging.
 - 👯 I am always open to discussing new projects, creative ideas, and opportunities.
-- ⚡ Fun fact: In between training neural networks, I enjoy immersing myself in a game of chess. Feel free to challenge me on <a href="https://lichess.org/@/basnetsoyuj" target="_blank">Lichess</a>.
+- ⚡ Fun fact: In between training neural networks, I enjoy immersing myself in a game of chess. Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank">Chess<a>.
 - 📝 I have recently developed a keen interest in penning down my thoughts, musings, and experiences as blog posts.
 
 *Updated 8th July 2023*
