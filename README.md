@@ -11,13 +11,13 @@
 
 <hr />
 
-- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="25px" /> <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-student_1f468-200d-1f393.png" width ="25px" /> I'm a rising Junior, studying computer science from distance <br> in USF University of San Francisco 
+- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="25px" /> <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-student_1f468-200d-1f393.png" width ="25px" /> I'm a rising Junior, studying computer science <br> from distance in USF University of San Francisco 
 - 🔭 I'm currently working on personal projects with [myself]
 - 👯 I am always open to discussing new projects, <br> creative ideas, and opportunities.
-- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/high-voltage_26a1.gif" width="25px" /> Fun fact: In between training neural networks, I enjoy immersing myself in a game of chess. <br> Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank">Chess<a>.
+- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/high-voltage_26a1.gif" width="25px" /> Fun fact: In between training neural networks, <br> I enjoy immersing myself in a game of chess. <br> Feel free to challenge me on <a href="https://chess.com/member/jxdho" target="_blank">Chess<a>.
 
 *Updated 31th July 2025*
 
 
 <h5 align="center">Language & Tools:</h5>
-<p> <img height="23" src="Assets/images/logos/python.svg" alt="python" title="python" /> <img height="20" src="Assets/images/logos/css.svg" alt="css3" title="css3" /> <img height="20" src="Assets/images/logos/django.svg" alt="django" title="django" /> <img height="20" src="Assets/images/logos/docker.svg" alt="docker" title="docker" /> <img height="20" src="Assets/images/logos/figma.svg" alt="figma" title="figma" /> <img height="20" src="Assets/images/logos/git.svg" alt="git" title="git" /> <img height="27" src="Assets/images/logos/html.svg" alt="html5" title="html5" /> <img height="20" src="Assets/images/logos/Js.svg" alt="javascript" title="javascript"/> <img height="20" src="Assets/images/logos/react.svg" alt="react" title="react" /> </p>
+<p align="center" sytle="padding: 10px;"> <img height="23" src="Assets/images/logos/python.svg" alt="python" title="python" /> <img height="20" src="Assets/images/logos/css.svg" alt="css3" title="css3" /> <img height="20" src="Assets/images/logos/django.svg" alt="django" title="django" /> <img height="20" src="Assets/images/logos/docker.svg" alt="docker" title="docker" /> <img height="20" src="Assets/images/logos/figma.svg" alt="figma" title="figma" /> <img height="20" src="Assets/images/logos/git.svg" alt="git" title="git" /> <img height="27" src="Assets/images/logos/html.svg" alt="html5" title="html5" /> <img height="20" src="Assets/images/logos/Js.svg" alt="javascript" title="javascript"/> <img height="20" src="Assets/images/logos/react.svg" alt="react" title="react" /> </p>
