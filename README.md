@@ -10,11 +10,28 @@
 <p align="center" style="padding: 10px;"><a href="https://linkedin.com/in/cassio-silva-846953338" target="blank"><img align="center" src="Assets/images/logos/linkedin.svg" alt="CASIO008" width="25" /></a>&nbsp;&nbsp;<a href="https://instagram.com/casio_csb" target="blank"><img align="center" src="Assets/images/logos/Instagram.svg" alt="casio_csb" width="25" /></a>&nbsp;&nbsp;<a href="mailto:cassiossilva07@gmail.com"><img align="center" src="Assets/images/logos/gmail.svg" alt="CASIO008" width="25" /></p>
 
 <hr />
-> [!WARNING]
-> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="25px" /> <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-student_1f468-200d-1f393.png" width ="25px" /> I'm a rising Junior, studying computer science <br> from distance in USF University of San Francisco 
-> 🔭 I'm currently working on personal projects with [myself]
-> 👯 I am always open to discussing new projects, <br> creative ideas, and opportunities.
-> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/high-voltage_26a1.gif" width="25px" /> Fun fact: In between training neural networks, <br> I enjoy immersing myself in a game of chess. <br> Feel free to challenge me on <a href="[https://chess.com/member/jxdho" target="_blank"><img height="20px" src="https://em-content.zobj.net/source/twitter/348/chess-pawn_265f-fe0f.png"><a>.
+<div style="background: #fff3cd; padding: 10px; border-left: 5px solid #ffc107; margin: 10px 0;">
+  <p style="margin: 0; font-weight: bold;">
+    <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/fire_1f525.gif" width="25px" />
+    <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-student_1f468-200d-1f393.png" width="25px" />
+    I'm a rising Junior, studying Computer Science from distance at <strong>USF (University of San Francisco)</strong>.
+  </p>
+</div>
+
+<p>
+  🔭 I'm currently working on personal projects <strong>[solo]</strong><br>
+  👯 I'm always open to discussing new projects, creative ideas, and opportunities.
+</p>
+
+<div style="background: #e7f5ff; padding: 10px; border-left: 5px solid #4dabf7; margin: 10px 0;">
+  <p style="margin: 0;">
+    <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/high-voltage_26a1.gif" width="25px" />
+    <strong>Fun fact:</strong> Between training neural networks, I enjoy chess. Challenge me on 
+    <a href="https://chess.com/member/jxdho" target="_blank" style="text-decoration: none;">
+      Chess.com <img src="https://em-content.zobj.net/source/twitter/348/chess-pawn_265f-fe0f.png" height="20px">
+    </a>.
+  </p>
+</div>
 
 *Updated 31th July 2025*
 
