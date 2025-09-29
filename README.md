@@ -27,7 +27,7 @@
   <p style="margin: 0;">
     <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/high-voltage_26a1.gif" width="25px" />
     <strong>Fun fact:</strong> Between training neural networks, I enjoy chess. Challenge me on 
-    <a href="https://chess.com/member/jxdho" target="_blank" style="text-decoration: none;">
+    <a href="https://lichess.org/@/CASIO08" target="_blank" style="text-decoration: none;">
       Chess.com <img src="https://em-content.zobj.net/source/twitter/348/chess-pawn_265f-fe0f.png" height="20px">
     </a>.
   </p>
